@@ -8,7 +8,7 @@ import { CustomValidators } from './Validators/noSpaceAllowed.validator';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit{
-  title = 'template-driven-form';
+  title = 'reactive-form';
   formStatus: string = '';
   formdata: any = {};
 
